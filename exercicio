@@ -29,3 +29,11 @@ Primeiro, certifique-se de ter o Virtualenv instalado em seu sistema. Caso não 
 Após a instalação, crie um novo diretório para o seu projeto e navegue até ele usando o terminal ou prompt de comando.
 Dentro do diretório do projeto, crie um novo ambiente virtual usando o comando virtualenv nome_do_ambiente. Substitua “nome_do_ambiente” pelo nome que deseja dar ao seu ambiente virtual.
 Após a criação do ambiente virtual, ative-o utilizando o comando apropriado para o sistema operacional em que você está trabalhando.
+
+O que é flask?
+
+Lançado em 2010 e desenvolvido por Armin Ronacher, o Flask é um micro-framework destinado principalmente a pequenas aplicações com requisitos mais simples, como por exemplo, a criação de um site básico.
+
+Possui um núcleo simples e expansível que permite que um projeto possua apenas os recursos necessários para sua 
+execução conforme surja a necessidade, um novo pacote pode ser adicionado para incrementar as funcionalidades 
+da aplica
