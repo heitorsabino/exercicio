@@ -37,3 +37,9 @@ Lançado em 2010 e desenvolvido por Armin Ronacher, o Flask é um micro-framewor
 Possui um núcleo simples e expansível que permite que um projeto possua apenas os recursos necessários para sua 
 execução conforme surja a necessidade, um novo pacote pode ser adicionado para incrementar as funcionalidades 
 da aplica
+
+(venv) $ pip install flask
+(venv) $ pip freeze
+(venv) $ python 
+>>> import flask 
+>>>
