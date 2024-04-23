@@ -19,3 +19,8 @@ Após o download do instalador, execute-o. Na primeira tela, certifique-se de ma
 O instalador irá configurar o Python em seu computador. Aguarde até que a instalação seja concluída.
 
 Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o Prompt de Comando e digitando “python –version”. Se a versão do Python for exibida, significa que a instalação foi bem-sucedida.
+
+O que é venv ?
+
+Virtualenvs são uma forma de isolar diversos ambientes de desenvolvimento, assim permitindo ao programador
+utilizar versões específicas de diversos pacotes sem impactar instalações de outras aplicações ou sistemas.
