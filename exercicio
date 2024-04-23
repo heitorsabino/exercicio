@@ -11,3 +11,11 @@ Passo a passo:
 2 Vá até a pasta na qual foi feito o download do instalador do Python 3.8.
 
 3 Clique com o botão direito em cima do instalador. Clique na opção “Executar como Administrador”.
+
+Passo à passo para instalar:
+
+Após o download do instalador, execute-o. Na primeira tela, certifique-se de marcar a opção “Add Python to PATH” e clique em “Install Now”.
+
+O instalador irá configurar o Python em seu computador. Aguarde até que a instalação seja concluída.
+
+Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o Prompt de Comando e digitando “python –version”. Se a versão do Python for exibida, significa que a instalação foi bem-sucedida.
