@@ -24,3 +24,8 @@ O que é venv ?
 
 Virtualenvs são uma forma de isolar diversos ambientes de desenvolvimento, assim permitindo ao programador
 utilizar versões específicas de diversos pacotes sem impactar instalações de outras aplicações ou sistemas.
+
+Primeiro, certifique-se de ter o Virtualenv instalado em seu sistema. Caso não tenha, você pode instalá-lo usando o comando pip install virtualenv.
+Após a instalação, crie um novo diretório para o seu projeto e navegue até ele usando o terminal ou prompt de comando.
+Dentro do diretório do projeto, crie um novo ambiente virtual usando o comando virtualenv nome_do_ambiente. Substitua “nome_do_ambiente” pelo nome que deseja dar ao seu ambiente virtual.
+Após a criação do ambiente virtual, ative-o utilizando o comando apropriado para o sistema operacional em que você está trabalhando.
