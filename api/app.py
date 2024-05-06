@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return jsonify({"status": 200, "message": "API do Arthur Miele Malveste"})
+    return jsonify({"status": 200, "message": "API do Heitor Martins"})
 
 @app.route("/aleatorios")
 def aleatorios():
